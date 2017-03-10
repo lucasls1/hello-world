@@ -1,2 +1,5 @@
 # hello-world
-Teste
+Ola Sou Lucas 
+
+Estudante de ciencia Da computação. na universidade de brasilia - UniCeub.
+
